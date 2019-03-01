@@ -1,0 +1,96 @@
+#wrapper{
+    width:1100px;
+    height: 800px;
+    background-color: #ccc;
+}
+#header{
+    width: 1100px;
+    height: 128px;
+    background-color: white;
+    
+}
+#nav{
+
+
+}
+#content{
+    width: 700px;
+    height: 450px;
+    background-color: white;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 100px;
+    
+}
+#footer{
+    width:  1100px;
+    height: 150px;
+    background-color:rgba(7, 7, 7, 0.63);
+    text-align: center;
+    border-top: 6px solid rgb(63, 219, 224);
+    margin-top: 200px;
+}
+
+
+body {
+    font-size: 80%;
+    font-family: "Courier New" , Courier, monospace;
+    letter-spacing: 0.15em;
+    }
+    #page {
+        max-width: 960px;
+        min-width: 960px;
+        margin: 10px auto 10px auto;
+        padding: 20px;
+        background-color: rgb(255, 255, 255);}
+    #logo {
+        width: 30px;
+        margin: 10px auto 25px auto;}
+    ul {
+        width: 570px;
+        
+        padding: 15px;
+        margin: 0px auto 0px auto;
+        border-top: 2px solid #000;
+        border-bottom: 1px solid #000;
+         text-align: left top;}
+        li {
+            display: inline;
+            margin: 0px 3px;
+        }
+p {
+    text-align: right;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    font-weight: normal;}
+a {
+    color:#000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 6px 18px 5px 18px;}
+    a:hover, a.on {
+        
+        background-color:#ffffff;}
+
+      input {
+          padding: 15px;
+      }
+.container{
+    width: 90%;
+    overflow: hidden;
+    background:white;
+    margin: 20px auto;
+    padding: 20px;
+}
+.container ul{
+    padding: 0px;
+    margin: 0px;
+}  
+.container ul li{
+    list-style: none;
+    float: left;
+    width: 20%;
+    height: 300px;
+    background: red;
+    margin: 40px 40px 0px 55px;
+} 
